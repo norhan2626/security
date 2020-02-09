@@ -1,0 +1,105 @@
+.parent{
+    -fx-background-color: whitesmoke;
+    
+    
+}
+.sidebar{
+    
+    
+    -fx-background-color: #30ACF3;
+    
+}
+.top{
+    
+      -fx-background-color: #E4E2E4;
+    
+}
+.close-btn{
+          -fx-background-color: #FC6653;
+                 -fx-background-radius: 100%;
+    
+}
+.close-btn:hover{
+          -fx-background-color: white;
+      
+    
+}
+.min-btn{
+          -fx-background-color: #29CC41;
+                 -fx-background-radius: 100%;
+    
+}
+.min-btn:hover{
+          -fx-background-color: green;
+                 -fx-background-radius: 100%;
+    
+}
+.max-btn{
+          -fx-background-color: #FDBC40;
+                 -fx-background-radius: 100%;
+    
+}
+.max-btn:hover{
+          -fx-background-color: yellow;
+                 -fx-background-radius: 100%;
+    
+}
+.online-dot{
+    
+ -fx-background-color: #29CC41;
+                 -fx-background-radius: 100%;
+    
+}
+.contact-list{
+         -fx-background-color:transparent;
+    
+}
+.contact-list:hover{
+          -fx-background-color: #0093E9;
+             
+    
+}
+.profile{
+          -fx-background-color: transparent;
+             -fx-border-color: #cccccc;
+             -fx-border-width: 1px 0px 0px 0px;
+             -fx-border-style: solid;
+    
+}
+.profile-2{
+       -fx-background-color: transparent;
+             -fx-border-color: #E4E2E4;
+             -fx-border-width: 2px 0px 2px 0px;
+             -fx-border-style: solid;
+    
+    
+    
+}
+.message-box {
+    -fx-background-color: #E4E2E4;
+    -fx-border-radius:10px;
+}
+.circle-btn:hover{
+          /*-fx-background-color: yellow;
+                 -fx-background-radius: 100%;*/
+            -fx-fill: brown;
+    
+}
+.circle-busy:hover{
+          /*-fx-background-color: yellow;
+                 -fx-background-radius: 100%;*/
+            -fx-fill: goldenrod;
+    
+}
+.circle-online:hover{
+          /*-fx-background-color: yellow;
+                 -fx-background-radius: 100%;*/
+            -fx-fill: greenyellow;
+    
+}
+.circlenothing-btn{
+          /*-fx-background-color: yellow;
+                 -fx-background-radius: 100%;*/
+              -fx-background-image: url("D:\user.png");
+               
+}

@@ -1,0 +1,5 @@
+grant{
+
+permission java.io.FilePermission "text.txt","write";
+
+}
